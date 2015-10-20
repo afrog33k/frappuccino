@@ -1,0 +1,1 @@
+An animation framework written in F# that uses Functional Reactive Programming (FRP) techniques. Animations can be developed in any .NET language.
